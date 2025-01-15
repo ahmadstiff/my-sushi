@@ -189,7 +189,7 @@ export default function SushiLandingPage() {
             <motion.div className="relative" variants={fadeInUp}>
               <div className="aspect-square rounded-lg overflow-hidden">
                 <img
-                  src="https://res-console.cloudinary.com/dn5jtkayx/media_explorer_thumbnails/773af6c136d70282064ac4e555b9c0e6/detailed"
+                  src="https://img.freepik.com/free-photo/city-night-with-vibrant-lights_23-2149836913.jpg?t=st=1736954101~exp=1736957701~hmac=a298bbf91217527018bc20697666403b5f05498cccac751b47072b424a60b53c&w=360"
                   alt="Restaurant Interior"
                   className="w-full h-full object-cover"
                   width={300}
