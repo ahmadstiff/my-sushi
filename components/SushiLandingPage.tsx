@@ -191,7 +191,7 @@ export default function SushiLandingPage() {
                 <img
                   src="https://img.freepik.com/free-photo/city-night-with-vibrant-lights_23-2149836913.jpg?t=st=1736954101~exp=1736957701~hmac=a298bbf91217527018bc20697666403b5f05498cccac751b47072b424a60b53c&w=360"
                   alt="Restaurant Interior"
-                  className="w-full h-full object-cover"
+                  className="w-[30vw] h-[60] object-cover"
                   width={300}
                   height={600}
                 />
